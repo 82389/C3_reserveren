@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+<form>
+    <input type="text" value="abc">
+  </form><form>
+    <input type="text" value="abc">
+  </form><form>
+    <input type="text" value="abc">
+  </form>form { 
+margin: 0 auto; 
+width:250px;
+}form { 
+margin: 0 auto; 
+width:250px;
+}
+
+/* CSS Document */
+
+/* background image */
+
+
+body
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	width: 1024px;
+	margin: 5px 25%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 130%;
+}
+
+main table.doc
+{
+	font-size: 75%;
+}
+
+
+/* topnav */
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav a:hover {
+    background-color: peachpuff;
+    color: black;
+}
+
+
+nav a.active {
+    background-color:orange;
+    color: white;
+}
+
+a {
+	text-decoration: none;
+	color: peachpuff
+}
+
+a:hover
+{
+	color: red;
+}
+/* ??????????????????*/
+main
+{
+	color:orange;
+	text-align:center;
+	background-color:#333;
+	opacity:0.9;
+}
+
+article
+{
+	color:orange;
+	text-align:center;
+	background-color:#333;
+	opacity:0.9;
+	
+}
+
+
+footer
+{
+	margin-top: 200px;
+	margin-left:200px;
+	
+}
+
+
+figure
+{
+	display: inline;
+}
+
+img {
+	
+width: 23%;	
+/*margin-top:450px;	*/
+}
+
+.img1 {
+	
+	border-radius: 50%;	
+	
+}
+
+.img2 {
+	
+  	border-radius: 50%;
+}
+
+.img3{
+	
+	border-radius: 50%;	
+}
